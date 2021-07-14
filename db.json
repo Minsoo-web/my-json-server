@@ -1,3 +1,8 @@
 {
-  "user": [{ "id": 1, "name": "minsoo" }]
+  "users": [{ "id": 1, "name": "minsoo" }],
+  "user": {
+    "id": 1,
+    "firstName": "minsoo",
+    "lastName": "Kim"
+  }
 }
